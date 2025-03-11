@@ -3,7 +3,7 @@
   "version": "0.2.2",
   "author": {
     "name": "LangZhai",
-    "url": "https://langzhai.github.io"
+    "url": "https://langzhai-rebirth.github.io"
   },
   "description": "This is a tiny module to help you convert between JSON data and ArrayBuffer, and you can use it in both Node.js and browsers.",
   "keywords": [
@@ -14,13 +14,13 @@
   "license": "LGPL-3.0+",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LangZhai/json-bufferify.git"
+    "url": "git+https://github.com/LangZhai-rebirth/json-bufferify.git"
   },
   "bugs": {
-    "url": "https://github.com/LangZhai/json-bufferify/issues",
+    "url": "https://github.com/LangZhai-rebirth/json-bufferify/issues",
     "email": "zl2012xyz@hotmail.com"
   },
-  "homepage": "https://langzhai.github.io/json-bufferify",
+  "homepage": "https://langzhai-rebirth.github.io/json-bufferify",
   "main": "dist/json-bufferify.min.js",
   "types": "types/json-bufferify.d.ts",
   "scripts": {

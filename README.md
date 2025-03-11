@@ -1,4 +1,4 @@
-# [json-bufferify](https://github.com/LangZhai-rebirth/json-bufferify) [![Travis (.org)](https://img.shields.io/travis/LangZhai-rebirth/json-bufferify)](https://travis-ci.org/LangZhai-rebirth/json-bufferify/builds) [![npm](https://img.shields.io/npm/v/json-bufferify)](https://www.npmjs.com/package/json-bufferify) ![GitHub file size in bytes](https://img.shields.io/github/size/LangZhai-rebirth/json-bufferify/dist/json-bufferify.min.js)
+# [json-bufferify](https://github.com/LangZhai-rebirth/json-bufferify) [![npm](https://img.shields.io/npm/v/json-bufferify)](https://www.npmjs.com/package/json-bufferify) ![GitHub file size in bytes](https://img.shields.io/github/size/LangZhai-rebirth/json-bufferify/dist/json-bufferify.min.js)
 
 This is a tiny module to help you convert between JSON data and ArrayBuffer, and you can use it in both Node.js and browsers.
 
